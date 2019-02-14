@@ -1,0 +1,113 @@
+body {
+  margin:0 auto;
+  background:lightgrey;
+  margin:0; 
+  padding: 0; 
+  font-family: 'trebuchet ms', trebuchet, verdana 
+}
+
+li#logo {
+  color:black;
+  margin:.75% .75% .75% 3%;
+  margin-top:10px;
+  font-size:30px;
+  float:left;
+  list-style-type:none;
+  text-decoration-style:none;
+}
+
+nav {
+  overflow:hidden;
+  background:darkgrey;
+}
+
+li.navitem {
+  font-size:20px;
+  margin:1% 3% 1% 1%;
+  float:right;
+  list-style:none;
+  margin-top:15px;  
+}
+
+li a {
+color:black;
+text-decoration:none; 
+}
+
+a#selected {
+	border-bottom:solid;
+  border-color:#b30000;
+  color:#b30000;
+
+
+	
+}
+
+a:hover {
+	color:#ffffff;
+	border-bottom:solid;
+	border-color:#ffffff;
+  opacity:0.5;
+}
+
+  
+h1 {
+  margin:30px 0 5px 0;
+	font-size:40px;
+	text-align:center;
+}
+
+p#center {
+  margin:0 auto;
+  text-align:center;
+}
+
+img {
+  width:90%;
+  border:solid 2px black;
+  border-radius:1em;
+  margin-top:3%;
+}
+
+figure {
+	text-align:center;
+	margin:3% 0 3% 3%;
+	background:darkgrey;
+	border-bottom:0.1em dashed #000000;
+	float:left;
+	width:28.78%;
+	border-style:solid;
+	border-color:darkgrey;
+	border-radius:1em;
+
+}
+
+figcaption {
+  margin:10px 0 10px 10px;
+  text-align:left;
+}
+
+header {
+  font-size:30px;
+  margin:10px;
+}
+
+footer {
+  font-size:12px;
+}
+
+a.websites {
+margin:0;
+text-decoration: none;
+color:#b30000;
+}
+
+
+aside {
+  float:left;
+  text-align:center;
+  margin:0 0 30px 30px;
+  padding:5px;
+  border: solid 2px #cc0000;
+  border-radius:10px;
+}
