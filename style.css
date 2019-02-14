@@ -63,13 +63,13 @@ p#center {
 }
 
 img {
-  width:90%;
+  width:100%;
   border:solid 2px black;
   border-radius:1em;
   margin-top:3%;
 }
 
-figure {
+article {
 	text-align:center;
 	margin:3% 0 3% 3%;
 	background:darkgrey;
@@ -85,6 +85,7 @@ figure {
 figcaption {
   margin:10px 0 10px 10px;
   text-align:left;
+  font-size:15px;
 }
 
 header {
